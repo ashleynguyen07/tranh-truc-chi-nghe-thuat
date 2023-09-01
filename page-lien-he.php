@@ -8,10 +8,10 @@
 				<section class="title-section">
 					<h1 class="title-header">
 						<span>
-						Giới thiệu		</span>
+						Liên hệ	</span>
 					</h1>
 				</section><!-- .title-section -->
-				<ol vocab="http://schema.org/" typeof="BreadcrumbList" class="breadcrumb breadcrumb__t"><li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://tranhtrucchinghethuat.com"><span property="name">Home</span><meta property="position" content="1"></a></li><li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://tranhtrucchinghethuat.com/gioi-thieu/"><span property="name">Giới thiệu</span><meta property="position" content="2"></a></li></ol>                </div>
+				<ol vocab="http://schema.org/" typeof="BreadcrumbList" class="breadcrumb breadcrumb__t"><li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://tranhtrucchinghethuat.com"><span property="name">Home</span><meta property="position" content="1"></a></li><li property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" href="https://tranhtrucchinghethuat.com/lien-he/"><span property="name">Liên hệ</span><meta property="position" content="2"></a></li></ol>                </div>
 			</div>
 		</div>
 		<div class="content_page">

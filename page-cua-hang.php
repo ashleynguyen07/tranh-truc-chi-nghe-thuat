@@ -9,7 +9,7 @@
                 <section class="title-section">
                  <h1 class="title-header">
                   <span>
-                      Tìm kiếm : <?php the_title(); ?><!--End shop-->
+                      Cửa hàng<!--End shop-->
                   </span>
               </h1>
           </section><!-- .title-section -->
@@ -43,9 +43,7 @@
                     <div class="row list_product">   
 
                         <?php $ourCurrentPage = get_query_var('paged');?>
-                        <?php if (is_search() && get_query_var('post_type') == 'product') {?>
                         <?php $args = array( 
-                          's' => get_search_query(),
                           'post_type' => 'product',
                           'posts_per_page' => 9,
                           'paged' => $ourCurrentPage,
@@ -105,9 +103,6 @@
                                     </div>
                                 </div>
                             <?php endwhile; wp_reset_postdata(); ?>
-                        <?php } else { ?>
-                        	<?php $getposts = new WP_query(); ?>
-                        <?php }?>
 
 
 

@@ -9,16 +9,16 @@
                                         <div id="pg-w624d0c529280c-0" class="panel-grid panel-no-style">
                                             <div id="pgc-w624d0c529280c-0-0" class="panel-grid-cell">
                                                 <div id="panel-w624d0c529280c-0-0-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="0">
-                                                    <h3 class="widget-title">Trúc chỉ Gia Long</h3>
+                                                    <h3 class="widget-title">Trúc chỉ Nghệ Thuật</h3>
                                                     <div class="textwidget">
                                                         <ul class="lienhe">
                                                             <li>
-                                                                <p><i class="fa fa-map-marker"></i>SHOWROOM Hà Nội : Số 171 Nguyễn Ngọc Vũ, Trung Hòa, Cầu Giấy, Hà Nội - 0972950590</p>
+                                                                <p><i class="fa fa-map-marker"></i>Thành phố Hội An, tỉnh Quảng Nam, Việt Nam</p>
                                                             </li>
                                                             <li>
-                                                                <p><i class="fa fa-phone"></i>Hotline : 0972950590</p>
+                                                                <p><i class="fa fa-phone"></i>Hotline : 0364547384</p>
                                                             </li>
-                                                            <li><i class="fa fa-envelope"></i>Email: banthogialong@gmail.com</li>
+                                                            <li><i class="fa fa-envelope"></i>Email: trucchinghethuattranh@gmail.com</li>
                                                             <li class="bold"><i class="fa fa-calendar"></i>THỜI GIAN LÀM VIỆC:Từ thứ Hai đến Chủ nhật
                                                                 <p><strong>Sáng</strong>: 8h30 – 11h30</p>
                                                                 <p><strong>Chiều</strong>:14h00 – 18h30</p>
@@ -31,14 +31,14 @@
                                                 <div id="panel-w624d0c529280c-0-1-0" class="so-panel widget widget_black-studio-tinymce widget_black_studio_tinymce panel-first-child panel-last-child" data-index="1">
                                                     <h3 class="widget-title">Facebook</h3>
                                                     <div class="textwidget">
-                                                        <p><a href="https://www.facebook.com/trucchigialong171n/"><img class="wp-image-1816 alignleft" src="https://trucchigialong.vn/wp-content/uploads/2022/04/277704507_2152460324903767_2897982665325478656_n-1.jpg" alt="" width="214" height="254" /></a></p>
+                                                        <p><a href="https://www.facebook.com/profile.php?id=100069403098601"><img src="<?php echo get_template_directory_uri() . '/images/facebook1.png'; ?>" alt="" width="214" height="254" /></a></p>
                                                     </div>
                                                 </div>
                                             </div>
                                             <div id="pgc-w624d0c529280c-0-2" class="panel-grid-cell">
                                                 <div id="panel-w624d0c529280c-0-2-0" class="widget_text so-panel widget widget_custom_html panel-first-child panel-last-child" data-index="2">
                                                     <h3 class="widget-title">Bản đồ</h3>
-                                                    <div class="textwidget custom-html-widget"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29796.05686410454!2d105.807319!3d21.012386!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8822561cfdf2a340!2zVHJhbmggVHLDumMgY2jhu4kgR2lhIExvbmc!5e0!3m2!1svi!2sus!4v1608863854019!5m2!1svi!2sus"
+                                                    <div class="textwidget custom-html-widget"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d122778.37558305309!2d108.33449988502616!3d15.918276406626592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31420dd4e1353a7b%3A0xae336435edfcca3!2zSOG7mWkgQW4sIFF14bqjbmcgTmFtLCBWaWV0bmFt!5e0!3m2!1sen!2s!4v1692236373129!5m2!1sen!2s"
                                                             width="100%" height="250" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
                                                 </div>
                                             </div>
@@ -53,10 +53,10 @@
             <div class="copyright">
                 <div class="container">
                     <div id="footer-text" class="footer-text">
-                        <p>© Bản quyền thuộc về Trucchigialong.vn</p>
+                        <p>© Bản quyền thuộc về Trucchinghethuat.com</p>
                         <p>&nbsp;</p>
                     </div>
-                    <div class="author">Design by <a href="https://thietkewebsite.pro.vn/" target="_blank">CreativeVietNam</a></div>
+                    <div class="author">Design by <a href="" target="_blank">Ashley Nguyen</a></div>
                 </div>
             </div>
             <div class="poup_footer"></div>
@@ -69,18 +69,18 @@
                 </div>
                 <div class="list_hotro">
                     <ul>
-                        <li><a href="tel:0972950590"> <img src="https://trucchigialong.vn/wp-content/uploads/2020/03/icon_zalo.jpg" alt="" width="42" height="42" />0972950590</a></li>
-                        <li><a href="https://www.messenger.com/t/trucchigialong171n" target="_blank" rel="noopener"> <img src="https://trucchigialong.vn/wp-content/uploads/2020/03/icon_chatface.jpg" alt="" width="42" height="42" />Chat Facebook</a></li>
-                        <li><a href="https://zalo.me/0972950590"> <img src="https://trucchigialong.vn/wp-content/uploads/2020/03/icon_zalo.jpg" alt="" width="42" height="42" />Chat Zalo</a></li>
+                        <li><a href="tel:0364547384"> <img src="https://trucchigialong.vn/wp-content/uploads/2020/03/icon_zalo.jpg" alt="" width="42" height="42" />0364547384</a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=100069403098601" target="_blank" rel="noopener"> <img src="https://trucchigialong.vn/wp-content/uploads/2020/03/icon_chatface.jpg" alt="" width="42" height="42" />Chat Facebook</a></li>
+                        <li><a href="https://zalo.me/0364547384"> <img src="https://trucchigialong.vn/wp-content/uploads/2020/03/icon_zalo.jpg" alt="" width="42" height="42" />Chat Zalo</a></li>
                     </ul>
                 </div>
             </div>
         </div>
 
         <div class="hotline_footer_fixed">
-            <a href="tel:0972950590">
+            <a href="tel:0364547384">
 				<i class="fa fa-phone" aria-hidden="true"></i>
-				<span>0972950590</span>
+				<span>0364547384</span>
 			</a>
         </div>
         <script type="text/javascript">
